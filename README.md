@@ -11,3 +11,15 @@ Supporting Function Files (.py)
 2. data_cleaning.py
 3. data_rules.py
 4. data_trans.py
+
+Contributors:-
+Shailesh Shankar Kawade
+Rajesh Chaudhary
+Srinivas Mahakud
+Vivek Inamdar
+Sowbhagya Lakshmi Behal
+
+Mentor:-
+Sumit Kumar
+
+
